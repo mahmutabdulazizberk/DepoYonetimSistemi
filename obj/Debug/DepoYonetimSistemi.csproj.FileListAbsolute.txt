@@ -1,0 +1,10 @@
+C:\Users\ÖmerSelimBERK\source\repos\DepoYonetimSistemi\DepoYonetimSistemi\bin\Debug\DepoYonetimSistemi.exe.config
+C:\Users\ÖmerSelimBERK\source\repos\DepoYonetimSistemi\DepoYonetimSistemi\bin\Debug\DepoYonetimSistemi.exe
+C:\Users\ÖmerSelimBERK\source\repos\DepoYonetimSistemi\DepoYonetimSistemi\bin\Debug\DepoYonetimSistemi.pdb
+C:\Users\ÖmerSelimBERK\source\repos\DepoYonetimSistemi\DepoYonetimSistemi\obj\Debug\DepoYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ÖmerSelimBERK\source\repos\DepoYonetimSistemi\DepoYonetimSistemi\obj\Debug\DepoYonetimSistemi.FormDepoYonetimi.resources
+C:\Users\ÖmerSelimBERK\source\repos\DepoYonetimSistemi\DepoYonetimSistemi\obj\Debug\DepoYonetimSistemi.Properties.Resources.resources
+C:\Users\ÖmerSelimBERK\source\repos\DepoYonetimSistemi\DepoYonetimSistemi\obj\Debug\DepoYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\ÖmerSelimBERK\source\repos\DepoYonetimSistemi\DepoYonetimSistemi\obj\Debug\DepoYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ÖmerSelimBERK\source\repos\DepoYonetimSistemi\DepoYonetimSistemi\obj\Debug\DepoYonetimSistemi.exe
+C:\Users\ÖmerSelimBERK\source\repos\DepoYonetimSistemi\DepoYonetimSistemi\obj\Debug\DepoYonetimSistemi.pdb
